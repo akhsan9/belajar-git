@@ -1,0 +1,2 @@
+print "sudah mulai"
+print "bisa lagi"
